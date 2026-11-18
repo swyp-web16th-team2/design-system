@@ -1,6 +1,6 @@
 # swyp-web16th-team2-design-system 
  - 디자인 시스템 공통 컴포넌트 문서
- - psh9321.github.io/swyp-web16th-team2-design-system
+ - <a href="https://psh9321.github.io/swyp-web16th-team2-design-system">디자인 시스템 문서 페이지</a>
  
 
 ---
